@@ -5,9 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://nominuto.com/_assets/modules/artigos/artigo_4319.jpg");
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.display-list {
+  list-style-type: none;
+}
+
+.pic-display {
+  margin-left: 300px;
 }
